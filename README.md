@@ -12,5 +12,5 @@ Other:
 - ZED stereo depth sensor SDK
 
 ToDo
-- [ ] Disk image clone backup @ 
+- [x] Disk image clone backup @ data partition 
 - [ ] Write bash file for all

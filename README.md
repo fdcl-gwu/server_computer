@@ -12,5 +12,5 @@ Other:
 - ZED stereo depth sensor SDK
 
 ToDo
-- [x] Disk image clone backup @ data partition [Link to DD restor](https://help.ubuntu.com/community/DriveImaging)
+- [x] Disk image clone backup @ data partition [Link to DD restore](https://help.ubuntu.com/community/DriveImaging)
 - [ ] Write bash file for all

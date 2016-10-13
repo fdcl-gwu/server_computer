@@ -11,4 +11,6 @@ Installation of Ubuntu, Nvidia driver, CUDA, OpenCV, ROS
 Other:
 - ZED stereo depth sensor SDK
 
-Disk image clone backup @ 
+ToDo
+[ ] Disk image clone backup @ 
+[ ] Write bash file for all
